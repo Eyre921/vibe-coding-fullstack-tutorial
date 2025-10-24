@@ -2,7 +2,7 @@
 
 > 🚀 AI 时代的全栈开发完整指南 - 从零基础到生产部署的系统性学习路径
 
-[![GitHub stars](https://img.shields.io/github/stars/username/vibe-coding-fullstack-tutorial?style=social)](https://github.com/username/vibe-coding-fullstack-tutorial)
+[![GitHub stars](https://img.shields.io/github/stars/Eyre921/vibe-coding-fullstack-tutorial?style=social)](https://github.com/Eyre921/vibe-coding-fullstack-tutorial)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -13,7 +13,7 @@
 ### ✨ 核心特色
 
 - 🤖 **AI Native 开发理念** - 从传统编程转向 AI 协作开发
-- 🏗️ **现代化技术栈** - Next.js 14 + App Router + Server Components
+- 🏗️ **现代化技术栈** - Next.js 15 + App Router + Server Components
 - 📚 **系统性学习路径** - 12个模块，从零基础到高级应用
 - 🛠️ **实战导向** - 每个概念都配有实际项目案例
 - 🔒 **安全最佳实践** - 内置安全设计原则和实施指南
@@ -143,6 +143,37 @@
 - **包管理**: pnpm
 - **容器化**: Docker
 - **部署**: Vercel / 1Panel
+
+## 📋 项目状态
+
+> ⚠️ **当前版本说明**
+> 
+> 这是 **Vibe Coding 全栈实战教程** 的初始版本，目前包含完整的课程大纲和框架结构。我们将按照以下计划逐步完善：
+
+### 🚧 开发计划
+
+#### 📚 内容发布计划
+- **第一阶段**: 完善第0-2章基础内容
+- **第二阶段**: 发布第3-6章核心开发内容
+- **第三阶段**: 完成第7-12章高级专题
+- **持续更新**: 根据技术发展和社区反馈持续优化
+
+#### 🗂️ 项目结构完善
+我们将逐步建立完整的项目文件夹结构.
+
+
+#### 🌐 网页版发布
+- **功能特性**: 
+  - 📖 章节式阅读体验
+- **访问方式**: 将提供独立域名访问（敬请期待）
+
+### 🤝 参与方式
+
+我们欢迎社区参与教程的完善：
+- 📝 **内容贡献**: 提交章节内容、示例代码
+- 🐛 **问题反馈**: 报告错误、提出改进建议  
+- 💡 **功能建议**: 提出新的教学内容或工具需求
+- 🌟 **经验分享**: 分享学习心得和实践经验
 
 ## 🚀 快速开始
 
