@@ -3,8 +3,11 @@
 > 🚀 AI 时代的全栈开发完整指南 - 从零基础到生产部署的系统性学习路径
 
 [![GitHub stars](https://img.shields.io/github/stars/Eyre921/vibe-coding-fullstack-tutorial?style=social)](https://github.com/Eyre921/vibe-coding-fullstack-tutorial)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+## 飞书知识库
+
+https://hangkang.feishu.cn/wiki/space/7564669215636226067
 
 ## 🎯 项目简介
 
